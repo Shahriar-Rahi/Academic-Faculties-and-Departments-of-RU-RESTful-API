@@ -1,0 +1,1 @@
+# Academic-Faculties-and-Departments-of-RU-RESTful-API
