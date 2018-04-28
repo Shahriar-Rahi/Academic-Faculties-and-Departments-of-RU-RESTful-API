@@ -29,4 +29,4 @@ A RESTful API by which:
 	4.8  Number of staffs
 	4.9  Location
 
-It is an University semester project.
+It is a University semester project.
