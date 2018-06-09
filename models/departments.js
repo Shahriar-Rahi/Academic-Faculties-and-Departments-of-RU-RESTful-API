@@ -26,7 +26,7 @@ module.exports.addDepartment = (department, callback) => {
 	Department.create(department, callback);
 }
 
-module.exports.updateDepartment = (number, book, options, callback) => {
+module.exports.updateDepartment = (number, department, options, callback) => {
 	var query = {number: number};
 	var update = {
 		name: department.name
